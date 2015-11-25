@@ -1,0 +1,1 @@
+Drug framework application template.
